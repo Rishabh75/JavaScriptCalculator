@@ -1,0 +1,85 @@
+body{
+	background: url("https://wallup.net/wp-content/uploads/mixed/All_Math_Formula_Picture.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Lobster';
+}
+
+h1{
+	color: black;
+	margin: 50px;
+	padding: 20px;
+	font-size: 50px;
+	text-shadow: -5px 5px 10px #262626;
+}
+
+#display{
+	width: 250px;
+	height: 150px;
+	margin-top: 40px;
+	background-color: #333333;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	box-shadow: -8px 8px 15px #666666;
+}
+
+.displayBoard{
+	width: 210px;
+	background-color: #999999;
+	height: 110px;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: -3px 3px 5px #d9d9d9;
+
+
+}
+
+h3{
+	font-size: 20px;
+	margin-right: 10px;
+}
+
+h4{
+	font-size: 20px;
+}
+
+#buttons{
+	width: 250px;
+	background-color: #333333;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	box-shadow: -8px 8px  15px #666666;
+}
+
+button{
+	margin:5px;
+	width:40px;
+	font-size: 18px;
+	box-shadow: -1px 1px 2px #8080ff;
+
+}
+.btn-danger{
+	box-shadow: -1px 1px 3px red;
+
+}
+
+#zeroButton{
+	width: 80px;
+	margin-right: 19px;
+}
+
+#equalButton{
+	height: 70px;
+	margin-top: -30px;
+
+}
